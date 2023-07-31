@@ -1,0 +1,98 @@
+.legend {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+
+  .title{
+font-size: 20px;
+font-weight: 500;
+  }
+
+  .buttonStyle {
+    background-color: red;
+    color: white;
+  }
+  
+  .buttonStyle:hover {
+    background-color: darkred;
+  }
+  
+
+  .subtitle{
+font-size: 10px;
+color:gray
+  }
+  
+  .chartContainer{
+
+    margin-top:10px
+
+  }
+  .container{
+    background-color: #e3e3e3;
+    border: 1px #EF6262 solid;
+    padding: 10px;
+    
+  }
+  .legendItem,
+  .zoomButtons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .legendItem div {
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.1rem;
+  }
+  
+  .zoomButtons {
+    display: flex;
+    justify-content:center;
+    font-size: 20px;
+  }
+  
+  .zoomButton {
+    font-size: 20px;
+    border: #EF6262 1px solid;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    color: #EF6262;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .zoomButton:hover {
+    background-color: #e3e3e3;
+    border: #EF6262 1px solid;
+    color: #0000 !important;
+
+  }
+  
+  .zoomButton:active {
+    background-color: #e3e3e3;
+    border: #EF6262 2px solid;
+    color: #0000;
+
+
+  }
+
+  .infoGrid{
+    margin-top:15px
+  }
+
+  .icons {
+    font-size: 10px;
+    color: #e3e3e3;
+    padding-right: 5px;
+  }
+
+  .cells{
+    font-size: 10px ;
+    color: #1D5B79;
+
+  }
+  

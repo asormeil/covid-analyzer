@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+# COVID Data Visualization App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App Screenshot](/path/to/app_screenshot.png)
 
-## Available Scripts
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Worldmap Page](#worldmap-page)
+- [Comparatives Page](#comparatives-page)
+- [Charts Page](#charts-page)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+The COVID Data Visualization App is a web application that allows users to visualize and explore COVID-19 and mortality data across different countries. The app provides interactive and insightful charts, graphs, and a world map to help users understand and analyze the impact of COVID-19 on a global scale.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Interactive world map with COVID-19 statistics by country
+- Comparative data analysis for multiple countries
+- Visual representation of mortality data through charts
+- Real-time data updates
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# COVID Data Visualization App
 
-### `npm run build`
+This is a comprehensive COVID data visualization app built with React and Redux. It provides users with three main pages:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Worldmap Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Worldmap Page](./screenshots/worldmap_screenshot.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The Worldmap page displays a world map with color-coded markers representing COVID statistics for different countries. Users can interact with the map to view detailed information about each country.
 
-### `npm run eject`
+## Comparatives Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Comparatives Page](./screenshots/comparatives_screenshot.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The Comparatives page allows users to compare COVID statistics between multiple countries using interactive charts and graphs. Users can customize the data they want to compare and visualize the trends over time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Charts Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Charts Page](./screenshots/charts_screenshot.png)
 
-## Learn More
+The Charts page presents various charts and graphs showcasing COVID-related data for a specific country. Users can select a country from the dropdown menu to view the data visualization.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation
 
-### Code Splitting
+To run the app locally, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the required dependencies using `npm install`.
+4. Start the development server using `npm start`.
 
-### Analyzing the Bundle Size
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Once the app is running, you can access it by visiting `http://localhost:3000` in your web browser.
 
-### Making a Progressive Web App
+## Worldmap Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Worldmap Page](/path/to/worldmap_screenshot.png)
 
-### Advanced Configuration
+The Worldmap page displays an interactive world map with markers for each country. Each marker represents the country's COVID-19 statistics, such as the number of confirmed cases, deaths, and recoveries. Users can click on a marker to view detailed information about that specific country. The map also supports zooming and panning for better navigation.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Comparatives Page
 
-### Deployment
+![Comparatives Page](/path/to/comparatives_screenshot.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The Comparatives page allows users to select multiple countries and compare their COVID-19 data side by side. Users can choose specific statistics to compare, such as confirmed cases, deaths, recoveries, and more. The data is displayed in tabular format for easy comparison.
 
-### `npm run build` fails to minify
+## Charts Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Charts Page](/path/to/charts_screenshot.png)
+
+The Charts page offers various charts and graphs to visualize COVID-19 mortality data. Users can select a country and view the corresponding mortality data represented in line charts. The charts display information about deaths in different years, including 2023, average deaths from 2015 to 2019, deaths since 2020, and deaths in 2015.
+
+## Screenshots
+
+Below are screenshots of the three main pages of the app:
+
+1. Worldmap Page
+   ![Worldmap Page](/path/to/worldmap_screenshot.png)
+
+2. Comparatives Page
+   ![Comparatives Page](/path/to/comparatives_screenshot.png)
+
+3. Charts Page
+   ![Charts Page](/path/to/charts_screenshot.png)
+
+## Contributing
+
+Contributions to the COVID Data Visualization App are welcome! If you find any issues or want to add new features, please create a pull request with your changes. Before contributing, make sure to read the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
