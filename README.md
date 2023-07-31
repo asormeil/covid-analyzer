@@ -1,6 +1,6 @@
 # COVID Data Visualization App
 
-![App Screenshot](/path/to/app_screenshot.png)
+![App Screenshot](/screenshots/worldmap_screenshot.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
