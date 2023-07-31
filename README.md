@@ -64,34 +64,19 @@ Once the app is running, you can access it by visiting `http://localhost:3000` i
 
 ## Worldmap Page
 
-![Worldmap Page](/path/to/worldmap_screenshot.png)
 
 The Worldmap page displays an interactive world map with markers for each country. Each marker represents the country's COVID-19 statistics, such as the number of confirmed cases, deaths, and recoveries. Users can click on a marker to view detailed information about that specific country. The map also supports zooming and panning for better navigation.
 
 ## Comparatives Page
 
-![Comparatives Page](/path/to/comparatives_screenshot.png)
 
 The Comparatives page allows users to select multiple countries and compare their COVID-19 data side by side. Users can choose specific statistics to compare, such as confirmed cases, deaths, recoveries, and more. The data is displayed in tabular format for easy comparison.
 
 ## Charts Page
 
-![Charts Page](/path/to/charts_screenshot.png)
 
 The Charts page offers various charts and graphs to visualize COVID-19 mortality data. Users can select a country and view the corresponding mortality data represented in line charts. The charts display information about deaths in different years, including 2023, average deaths from 2015 to 2019, deaths since 2020, and deaths in 2015.
 
-## Screenshots
-
-Below are screenshots of the three main pages of the app:
-
-1. Worldmap Page
-   ![Worldmap Page](/path/to/worldmap_screenshot.png)
-
-2. Comparatives Page
-   ![Comparatives Page](/path/to/comparatives_screenshot.png)
-
-3. Charts Page
-   ![Charts Page](/path/to/charts_screenshot.png)
 
 ## Contributing
 
