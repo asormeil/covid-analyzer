@@ -1,5 +1,7 @@
 # COVID Data Visualization App
 
+The COVID Data Visualization App is a web application that allows users to visualize and explore COVID-19 and mortality data across different countries. The app provides interactive and insightful charts, graphs, and a world map to help users understand and analyze the impact of COVID-19 on a global scale.
+
 ![App Screenshot](/screenshots/worldmap_screenshot.png)
 
 ## Table of Contents
