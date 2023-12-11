@@ -78,10 +78,6 @@ The Comparatives page allows users to select multiple countries and compare thei
 The Charts page offers various charts and graphs to visualize COVID-19 mortality data. Users can select a country and view the corresponding mortality data represented in line charts. The charts display information about deaths in different years, including 2023, average deaths from 2015 to 2019, deaths since 2020, and deaths in 2015.
 
 
-## Contributing
-
-Contributions to the COVID Data Visualization App are welcome! If you find any issues or want to add new features, please create a pull request with your changes. Before contributing, make sure to read the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+e [MIT License](LICENSE). 
